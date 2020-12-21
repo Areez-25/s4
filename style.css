@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color:cyan;
+    color: crimson;
+}
+div{
+    text-align: center;
+}
+img{
+    cursor: pointer;
+}
